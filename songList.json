@@ -1,72 +1,415 @@
 [
-    {
-        "id": 1,
-        "anime": "0-saiji Start Dash Monogatari Season 2 - Ending 1",
-        "name": "\"Beyond the Trajectory\" by Chata",
-        "video": "https://eudist.animemusicquiz.com/5u2mhk.webm",
-        "mp3": null
-    },
-    {
-        "id": 2,
-        "anime": "1-punkan dake Furete mo Ii yo... Share House no Himitsu Rule. - Ending 1",
-        "name": "\"Session Sadame Night\" by Dai Takanashi",
-        "video": "https://eudist.animemusicquiz.com/f23gq2.webm",
-        "mp3": "https://eudist.animemusicquiz.com/ne5vos.mp3"
-    },
-    {
-        "id": 3,
-        "anime": "A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu. - Ending 1",
-        "name": "\"Treasure Chest\" by Yuki Tanaka",
-        "video": "https://eudist.animemusicquiz.com/agsvoz.webm",
-        "mp3": "https://eudist.animemusicquiz.com/i3vp9q.mp3"
-    },
-    {
-        "id": 4,
-        "anime": "Akuyaku Reijou Tensei Ojisan - Ending 1",
-        "name": "\"Matsuken Samba II\" by Kazuhiko Inoue, M・A・O",
-        "video": "https://eudist.animemusicquiz.com/e8q47f.webm",
-        "mp3": "https://eudist.animemusicquiz.com/dje0hr.mp3"
-    },
-    {
-        "id": 5,
-        "anime": "Amagami-san Chi no Enmusubi - Ending 2",
-        "name": "\"Kamisama no Iu Toori!\" by ≠ME",
-        "video": "https://eudist.animemusicquiz.com/p4etz1.webm",
-        "mp3": "https://eudist.animemusicquiz.com/wz8z3p.mp3"
-    },
-    {
-        "id": 6,
-        "anime": "Ameku Takao no Suiri Karte - Ending 1",
-        "name": "\"will be fine\" by Gospellers feat. Anly",
-        "video": "https://eudist.animemusicquiz.com/0spf2m.webm",
-        "mp3": "https://eudist.animemusicquiz.com/iagxs7.mp3"
-    },
-    {
-        "id": 7,
-        "anime": "Ao no Exorcist: Yosuga-hen - Ending 1",
-        "name": "\"Overlap\" by Shiyui",
-        "video": "https://eudist.animemusicquiz.com/3z1d8i.webm",
-        "mp3": "https://eudist.animemusicquiz.com/162vdv.mp3"
-    },
-    {
-        "id": 8,
-        "anime": "Ao no Hako - Ending 2",
-        "name": "\"Contrast\" by TOMOO",
-        "video": "https://eudist.animemusicquiz.com/qmcqk3.webm",
-        "mp3": "https://eudist.animemusicquiz.com/l2sgqo.mp3"
-    },
-    {
-        "id": 9,
-        "anime": "Ao no Miburo - Ending 2",
-        "name": "\"Fragment\" by osage",
-        "video": "https://eudist.animemusicquiz.com/8b8iva.webm",
-        "mp3": "https://eudist.animemusicquiz.com/0yt4lm.mp3"
-    },
-    {
-        "id": 10,
-        "anime": "Arafou Otoko no Isekai Tsuuhan - Ending 1",
-        "name": "\"Aicraft\" by Kiminone",
-        "video": "https://eudist.animemusicquiz.com/ohlrpc.webm",
-        "mp3": "https://eudist.animemusicquiz.com/74jbjn.mp3"
-    }
+  {
+    "id": 1,
+    "anime": "Nagi no Asukara - OP",
+    "name": "\"lull ~Soshite Bokura wa~\" by Ray",
+    "video": "https://naedist.animemusicquiz.com/sxqhr5.webm",
+    "mp3": "https://naedist.animemusicquiz.com/y0heyu.mp3"
+  },
+  {
+    "id": 2,
+    "anime": "Aikatsu! - INS",
+    "name": "\"Moonlight destiny\" by Waka・Risuko from STAR☆ANIS",
+    "video": "https://naedist.animemusicquiz.com/gj96m2.webm",
+    "mp3": "https://naedist.animemusicquiz.com/x6fd87.mp3"
+  },
+  {
+    "id": 3,
+    "anime": "Ano Hi Mita Hana no Namae o Boku-tachi wa Mada Shiranai. - ED",
+    "name": "\"Circle Game\" by Galileo Galilei",
+    "video": "https://naedist.animemusicquiz.com/qh0ug8.webm",
+    "mp3": "https://naedist.animemusicquiz.com/iw7w2e.mp3"
+  },
+  {
+    "id": 4,
+    "anime": "Ark IX - ED",
+    "name": "\"Nevereverland\" by nano",
+    "video": "https://naedist.animemusicquiz.com/dyamar.webm",
+    "mp3": "https://naedist.animemusicquiz.com/uxvgll.mp3"
+  },
+  {
+    "id": 5,
+    "anime": "Arpeggio of Blue Steel - OP",
+    "name": "\"SAVIOR OF SONG\" by nano feat. MY FIRST STORY",
+    "video": "https://naedist.animemusicquiz.com/0zkcn5.webm",
+    "mp3": "https://naedist.animemusicquiz.com/w3ff4q.mp3"
+  },
+  {
+    "id": 6,
+    "anime": "Berserk Ougon Jidai-hen III: Kourin - ED",
+    "name": "\"breakthrough\" by Kaname Kawabata",
+    "video": "https://naedist.animemusicquiz.com/wpwh1f.webm",
+    "mp3": "https://naedist.animemusicquiz.com/q3figm.mp3"
+  },
+  {
+    "id": 7,
+    "anime": "Chihayafuru 2 - OP",
+    "name": "\"STAR\" by 99RadioService",
+    "video": "https://naedist.animemusicquiz.com/aboznd.webm",
+    "mp3": "https://naedist.animemusicquiz.com/2vrtq0.mp3"
+  },
+  {
+    "id": 8,
+    "anime": "D.C.III: Da Capo III - ED",
+    "name": "“REFLECTION” by Emi Nitta",
+    "video": "https://naedist.animemusicquiz.com/6vg5z8.webm",
+    "mp3": "https://naedist.animemusicquiz.com/m3hsvk.mp3"
+  },
+  {
+    "id": 9,
+    "anime": "D.C.III: Da Capo III - ED",
+    "name": "\"Aitai yo\" by yozuca*",
+    "video": "https://naedist.animemusicquiz.com/k1lsgg.webm",
+    "mp3": "https://naedist.animemusicquiz.com/3xkma6.mp3"
+  },
+  {
+    "id": 10,
+    "anime": "D.C.III: Da Capo III  - INS",
+    "name": "\"Futari dake no Melody\" by yozuca*",
+    "video": "https://naedist.animemusicquiz.com/j9ytuk.webm",
+    "mp3": "https://naedist.animemusicquiz.com/c0p0f5.mp3"
+  },
+  {
+    "id": 11,
+    "anime": "Fate/kaleid liner Prisma☆Illya - OP",
+    "name": "\"starlog\" by ChouCho",
+    "video": "https://naedist.animemusicquiz.com/3r2had.webm",
+    "mp3": "https://naedist.animemusicquiz.com/khidi5.mp3"
+  },
+  {
+    "id": 12,
+    "anime": "Free! - OP",
+    "name": "\"Rage on\" by OLDCODEX",
+    "video": "https://eudist.animemusicquiz.com/eqcsqg.webm",
+    "mp3": "https://eudist.animemusicquiz.com/rughxq.mp3"
+  },
+  {
+    "id": 13,
+    "anime": "Ginga Kikoutai Majestic Prince - OP",
+    "name": "“Watashi wa Souzou Suru” by Natsumi Kon",
+    "video": "https://naedist.animemusicquiz.com/hfqpn3.webm",
+    "mp3": "https://naedist.animemusicquiz.com/w90im6.mp3"
+  },
+  {
+    "id": 14,
+    "anime": "Gingitsune - OP",
+    "name": "\"tiny lamp\" by fhána",
+    "video": "https://naedist.animemusicquiz.com/clxvd4.webm",
+    "mp3": "https://naedist.animemusicquiz.com/v0e6st.mp3"
+  },
+  {
+    "id": 15,
+    "anime": "Gintama Enchousen - OP",
+    "name": "\"Sakura Mitsutsuki\" by SPYAIR",
+    "video": "https://naedist.animemusicquiz.com/dzdpkz.webm",
+    "mp3": "https://naedist.animemusicquiz.com/godez1.mp3"
+  },
+  {
+    "id": 16,
+    "anime": "Gintama: The Final Chapter - Be Forever Yorozuya - ED",
+    "name": "\"Genjou Destruction\" by SPYAIR",
+    "video": "https://naedist.animemusicquiz.com/ak0tk7.webm",
+    "mp3": "https://naedist.animemusicquiz.com/sf1qu9.mp3"
+  },
+  {
+    "id": 17,
+    "anime": "Golden Time - ED",
+    "name": "\"Sweet&Sweet CHERRY\" by Yui Horie",
+    "video": "https://naedist.animemusicquiz.com/v4qbh3.webm",
+    "mp3": "https://naedist.animemusicquiz.com/nz21xo.mp3"
+  },
+  {
+    "id": 18,
+    "anime": "Hakkenden: Touhou Hakken Ibun 2 - ED",
+    "name": "\"Souai Calendula\" by Ceui",
+    "video": "https://naedist.animemusicquiz.com/5o6oj0.webm",
+    "mp3": "https://naedist.animemusicquiz.com/dzlilt.mp3"
+  },
+  {
+    "id": 19,
+    "anime": "Hayate no Gotoku! Cuties - ED",
+    "name": "“Heroine wa Koko ni Iru!” by Ryoko Shiraishi",
+    "video": "https://naedist.animemusicquiz.com/4amv63.webm",
+    "mp3": "https://naedist.animemusicquiz.com/94lkkh.mp3"
+  },
+  {
+    "id": 20,
+    "anime": "High School DxD New - OP",
+    "name": "\"Sympathy\" by Larval Stage Planning",
+    "video": "https://naedist.animemusicquiz.com/ui07s5.webm",
+    "mp3": "https://naedist.animemusicquiz.com/163p1j.mp3"
+  },
+  {
+    "id": 21,
+    "anime": "Higurashi no Naku Koro ni Kaku: Outbreak - ED",
+    "name": "\"you -Visionen im Spiegel\" by Yuzuki",
+    "video": "https://naedist.animemusicquiz.com/ijoaiq.webm",
+    "mp3": "https://naedist.animemusicquiz.com/g5tx9e.mp3"
+  },
+  {
+    "id": 22,
+    "anime": "Hunter x Hunter - ED",
+    "name": "\"Hyouri Ittai\" by Yuzu",
+    "video": "https://naedist.animemusicquiz.com/ca208v.webm",
+    "mp3": "https://naedist.animemusicquiz.com/wxcwe3.mp3"
+  },
+  {
+    "id": 23,
+    "anime": "Kakumeiki Valvrave - OP",
+    "name": "\"Preserved Roses\" by T.M.Revolution×Nana Mizuki",
+    "video": "https://naedist.animemusicquiz.com/yrlenq.webm",
+    "mp3": "https://naedist.animemusicquiz.com/twbaj6.mp3"
+  },
+  {
+    "id": 24,
+    "anime": "Kakumeiki Valvrave - ED",
+    "name": "\"Boku ja Nai\" by angela",
+    "video": "https://naedist.animemusicquiz.com/cffro7.webm",
+    "mp3": "https://naedist.animemusicquiz.com/p6bx3p.mp3"
+  },
+  {
+    "id": 25,
+    "anime": "Kami nomi zo Shiru Sekai: Megami-hen - INS",
+    "name": "\"Omoi wa Rain Rain\" by Nao Touyama",
+    "video": "https://naedist.animemusicquiz.com/fjio43.webm",
+    "mp3": "https://naedist.animemusicquiz.com/5kd9rl.mp3"
+  },
+  {
+    "id": 26,
+    "anime": "Kara no Kyoukai: Mirai Fukuin - ED",
+    "name": "\"Allelujah\" by Kalafina",
+    "video": "https://naedist.animemusicquiz.com/i1nh0d.webm",
+    "mp3": "https://naedist.animemusicquiz.com/2ag6e0.mp3"
+  },
+  {
+    "id": 27,
+    "anime": "Katanagatari - OP (Rebroadcast)",
+    "name": "\"Hakushu Kassai Utaawase\" by supercell",
+    "video": "https://naedist.animemusicquiz.com/gklsb1.webm",
+    "mp3": "https://naedist.animemusicquiz.com/2i7ivu.mp3"
+  },
+  {
+    "id": 28,
+    "anime": "Kotoura-san - ED",
+    "name": "\"Kibou no Hana\" by Haruka Chisuga",
+    "video": "https://naedist.animemusicquiz.com/m95c0k.webm",
+    "mp3": "https://naedist.animemusicquiz.com/hq8fa8.mp3"
+  },
+  {
+    "id": 29,
+    "anime": "Kyoukai no Kanata - ED",
+    "name": "\"Daisy\" by STEREO DIVE FOUNDATION",
+    "video": "https://naedist.animemusicquiz.com/jqdrtp.webm",
+    "mp3": "https://naedist.animemusicquiz.com/ubemc2.mp3"
+  },
+  {
+    "id": 30,
+    "anime": "Little Busters! Refrain - ED",
+    "name": "\"Song for friends\" by Rita",
+    "video": "https://naedist.animemusicquiz.com/j914vo.webm",
+    "mp3": "https://naedist.animemusicquiz.com/yt2ffl.mp3"
+  },
+  {
+    "id": 31,
+    "anime": "Machine-Doll wa Kizutsukanai - ED",
+    "name": "\"Maware! Setsugetsuka\" by Uta-gumi Setsugetsuka",
+    "video": "https://naedist.animemusicquiz.com/xbca20.webm",
+    "mp3": "https://naedist.animemusicquiz.com/rvrlbd.mp3"
+  },
+  {
+    "id": 32,
+    "anime": "Machine-Doll wa Kizutsukanai - OP",
+    "name": "\"Anicca\" by Hitomi Harada",
+    "video": "https://naedist.animemusicquiz.com/lqrq96.webm",
+    "mp3": "https://files.catbox.moe/xns93u.mp3"
+  },
+  {
+    "id": 33,
+    "anime": "Monogatari Series Second Season - OP",
+    "name": "\"Mousou♥Express\" by Kana Hanazawa",
+    "video": "https://naedist.animemusicquiz.com/3su5rd.webm",
+    "mp3": "https://naedist.animemusicquiz.com/3bf0o4.mp3"
+  },
+  {
+    "id": 34,
+    "anime": "Mushibugyou - OP",
+    "name": "\"Denshin∞Unchained\" by FREEDa'M",
+    "video": "https://naedist.animemusicquiz.com/xrh704.webm",
+    "mp3": "https://naedist.animemusicquiz.com/qfe7xy.mp3"
+  },
+  {
+    "id": 35,
+    "anime": "Nagi no Asukara - ED",
+    "name": "\"Aqua Terrarium\" by Nagi Yanagi",
+    "video": "https://naedist.animemusicquiz.com/obd7ps.webm",
+    "mp3": "https://naedist.animemusicquiz.com/7kprkk.mp3"
+  },
+  {
+    "id": 36,
+    "anime": "Naruto Shippuuden - OP",
+    "name": "\"Niwaka Ame ni mo Makezu\" by NICO Touches the Walls",
+    "video": "https://naedist.animemusicquiz.com/o55mk8.webm",
+    "mp3": "https://naedist.animemusicquiz.com/oufkwn.mp3"
+  },
+  {
+    "id": 37,
+    "anime": "Ore no Nounai Sentakushi ga, Gakuen Love Come o Zenryoku de Jama Shiteiru - OP",
+    "name": "\"S・M・L☆\" by Afilia Saga",
+    "video": "https://naedist.animemusicquiz.com/d383ut.webm",
+    "mp3": "https://naedist.animemusicquiz.com/6yv6lq.mp3"
+  },
+  {
+    "id": 38,
+    "anime": "Photo Kano - INS",
+    "name": "\"Mizu-iro Inside\" by Mai Nakahara",
+    "video": "https://naedist.animemusicquiz.com/tm9q47.webm",
+    "mp3": "https://naedist.animemusicquiz.com/iathg5.mp3"
+  },
+  {
+    "id": 39,
+    "anime": "Sakura-sou no Pet na Kanojo - ED",
+    "name": "\"Prime number ~Kimi to Deaeru Hi~\" by Asuka Ookura",
+    "video": "https://naedist.animemusicquiz.com/1fp6ro.webm",
+    "mp3": "https://naedist.animemusicquiz.com/xz5bgs.mp3"
+  },
+  {
+    "id": 40,
+    "anime": "Senki Zesshou Symphogear G - OP",
+    "name": "\"Vitalization\" by Nana Mizuki",
+    "video": "https://naedist.animemusicquiz.com/em5ypw.webm",
+    "mp3": "https://naedist.animemusicquiz.com/cmck26.mp3"
+  },
+  {
+    "id": 41,
+    "anime": "Shingeki no Kyojin - OP",
+    "name": "\"Guren no Yumiya\" by Linked Horizon",
+    "video": "https://naedist.animemusicquiz.com/m85fry.webm",
+    "mp3": "https://naedist.animemusicquiz.com/k6a790.mp3"
+  },
+  {
+    "id": 42,
+    "anime": "Uchuu Kyoudai - ED",
+    "name": "\"BEYOND' by Miho Fukuhara",
+    "video": "https://naedist.animemusicquiz.com/llwahq.webm",
+    "mp3": "https://naedist.animemusicquiz.com/a33m3j.mp3"
+  },
+  {
+    "id": 43,
+    "anime": "Suisei no Gargantia - ED",
+    "name": "\"Sora to Kimi no Message\" by ChouCho",
+    "video": "https://naedist.animemusicquiz.com/jc0rbl.webm",
+    "mp3": "https://naedist.animemusicquiz.com/junrfm.mp3"
+  },
+  {
+    "id": 44,
+    "anime": "Tamayura: More Aggressive - ED",
+    "name": "\"Arigatou\" by Megumi Nakajima",
+    "video": "https://naedist.animemusicquiz.com/pcye93.webm",
+    "mp3": "https://naedist.animemusicquiz.com/cltjga.mp3"
+  },
+  {
+    "id": 45,
+    "anime": "Toaru Kagaku no Railgun S - ED",
+    "name": "\"stand still\" by Yuka Iguchi",
+    "video": "https://naedist.animemusicquiz.com/983i7r.webm",
+    "mp3": "https://naedist.animemusicquiz.com/cp43jp.mp3"
+  },
+  {
+    "id": 46,
+    "anime": "Toaru Kagaku no Railgun S - OP",
+    "name": "\"sister's noise\" by fripSide",
+    "video": "https://naedist.animemusicquiz.com/vp0xbp.webm",
+    "mp3": "https://naedist.animemusicquiz.com/qhpece.mp3"
+  },
+  {
+    "id": 47,
+    "anime": "Uchuu Kyoudai - ED",
+    "name": "\"Goodbye Isaac\" by Motohiro Hata",
+    "video": "https://naedist.animemusicquiz.com/q5lcl2.webm",
+    "mp3": "https://naedist.animemusicquiz.com/7psmr1.mp3"
+  },
+  {
+    "id": 48,
+    "anime": "Uchuu Kyoudai - OP",
+    "name": "\"Crater\" by Merengue",
+    "video": "https://naedist.animemusicquiz.com/yrl0n4.webm",
+    "mp3": "https://naedist.animemusicquiz.com/jxclxu.mp3"
+  },
+  {
+    "id": 49,
+    "anime": "Uchuu Senkan Yamato 2199 - OP",
+    "name": "\"Fight For Liberty\" by UVERworld",
+    "video": "https://naedist.animemusicquiz.com/72ybxs.webm",
+    "mp3": "https://naedist.animemusicquiz.com/kdgs00.mp3"
+  },
+  {
+    "id": 50,
+    "anime": "Uchuu Senkan Yamato 2199 - ED",
+    "name": "\"Best of my Love\" by Rei Yasuda",
+    "video": "https://naedist.animemusicquiz.com/o3l0ym.webm",
+    "mp3": "https://naedist.animemusicquiz.com/z8u8vl.mp3"
+  },
+  {
+    "id": 51,
+    "anime": "Uta no☆Prince-sama♪Maji Love 2000% - INS",
+    "name": "\"CRYSTAL TIME\" by Mamoru Miyano",
+    "video": "https://naedist.animemusicquiz.com/t2sd3a.webm",
+    "mp3": "https://naedist.animemusicquiz.com/mmqk27.mp3"
+  },
+  {
+    "id": 52,
+    "anime": "White Album 2 - OP",
+    "name": "\"Todokanai Koi '13\" by Rena Uehara",
+    "video": "https://naedist.animemusicquiz.com/yrn1fm.webm",
+    "mp3": "https://naedist.animemusicquiz.com/po87vt.mp3"
+  },
+  {
+    "id": 53,
+    "anime": "White Album 2 - OP",
+    "name": "\"WHITE ALBUM\" by Madoka Yonezawa",
+    "video": "https://naedist.animemusicquiz.com/zact97.webm",
+    "mp3": "https://naedist.animemusicquiz.com/ucl2oz.mp3"
+  },
+  {
+    "id": 54,
+    "anime": "White Album 2 - INS",
+    "name": "\"SOUND OF DESTINY\" by Madoka Yonezawa",
+    "video": "https://naedist.animemusicquiz.com/re2s8z.webm",
+    "mp3": "https://naedist.animemusicquiz.com/751vtc.mp3"
+  },
+  {
+    "id": 55,
+    "anime": "White Album 2 - ED",
+    "name": "\"closing '13\" by Rena Uehara",
+    "video": "https://naedist.animemusicquiz.com/3oasnn.webm",
+    "mp3": "https://naedist.animemusicquiz.com/2gp7f4.mp3"
+  },
+  {
+    "id": 56,
+    "anime": "White Album 2 - INS",
+    "name": "\"Twinkle Snow '13\" by Akari Tsuda",
+    "video": "https://naedist.animemusicquiz.com/8q54m3.webm",
+    "mp3": "https://naedist.animemusicquiz.com/pu0132.mp3"
+  },
+  {
+    "id": 57,
+    "anime": "White Album 2 - ED",
+    "name": "\"Sayonara no Koto\" by Rena Uehara",
+    "video": "https://naedist.animemusicquiz.com/lo9yu1.webm",
+    "mp3": "https://naedist.animemusicquiz.com/hzmgab.mp3"
+  },
+  {
+    "id": 58,
+    "anime": "White Album 2 - INS",
+    "name": "\"Akujo\" by Madoka Yonezawa",
+    "video": "https://naedist.animemusicquiz.com/8g1xx1.webm",
+    "mp3": "https://naedist.animemusicquiz.com/eht0tr.mp3"
+  },
+  {
+    "id": 59,
+    "anime": "Yowamushi Pedal - OP",
+    "name": "\"Reclimb\" by ROOKiEZ is PUNK'D",
+    "video": "https://naedist.animemusicquiz.com/ddkyv6.webm",
+    "mp3": "https://naedist.animemusicquiz.com/s2auf5.mp3"
+  }
 ]
