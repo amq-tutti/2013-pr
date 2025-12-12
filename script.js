@@ -85,7 +85,7 @@ function showDuel(id1, id2) {
             }
         } else if (music.mp3 !== null) {
             if (music.video.includes("animemusicquiz")) {
-                videoElement = `<audio controls><source src="https://${region}dist.animemusicquiz.com/${music.video.split('/').pop()}" type="audio/mp3"></audio>`;
+                videoElement = `<audio controls><source src="https://${region}dist.animemusicquiz.com/${music.mp3.split('/').pop()}" type="audio/mp3"></audio>`;
             } else {
                 videoElement = `<audio controls><source src="${music.mp3}" type="audio/mp3"></audio>`;
             }
